@@ -2,7 +2,7 @@
 
 Standard template used at SmokeTrees for REST APIs written in NodeJS.
 
-[![codecov](https://codecov.io/gh/smoke-trees/nodejs-backend-template/branch/master/graph/badge.svg)](https://codecov.io/gh/smoke-trees/nodejs-backend-template)
+[![codecov](https://codecov.io/gh/smoke-trees/activity-management/branch/master/graph/badge.svg)](https://codecov.io/gh/smoke-trees/activity-management)
 
 ## Running the server
 
